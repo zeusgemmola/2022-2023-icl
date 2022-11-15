@@ -1,16 +1,12 @@
 # 2022-2023-icl
 
-## Marion Caulifard
+## Marion Dalifard
 
 https://codesandbox.io/s/projet-convertor-marion-dalifard-forked-tfzs7f
 
 ## Hamed Cedric SYLLA
 
 https://codesandbox.io/s/tp-convertisseur-forked-wkxqbc
-
-## Ramy AMRANI
-
-https://codesandbox.io/s/tp-convertisseur-forked-ii2lk9?from-embed=&file=/src/Convertisseur.js
 
 ## Antoine Delaby
 
